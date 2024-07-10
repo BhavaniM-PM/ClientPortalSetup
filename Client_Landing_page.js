@@ -10,7 +10,7 @@
  * Start Date           : 16 March 2023
  * Last Modified Date   : 
  * 
- * Description          : Suitelet shows Client Portal login page
+ * Descraption          : Suitelet shows Client Portal login page
  * 			
  * 
  **/
